@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/blog/</loc>
+    <loc>https://scropyn.github.io/sarablog/tags/blog/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/first-blog/</loc>
+    <loc>https://scropyn.github.io/sarablog/posts/first-blog/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://scropyn.github.io/sarablog/posts/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/scropynx/</loc>
+    <loc>https://scropyn.github.io/sarablog/tags/scropynx/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://scropyn.github.io/sarablog/tags/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://scropyn.github.io/sarablog/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/images-test/</loc>
+    <loc>https://scropyn.github.io/sarablog/posts/images-test/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://scropyn.github.io/sarablog/categories/</loc>
   </url>
 </urlset>
